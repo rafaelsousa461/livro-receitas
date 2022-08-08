@@ -1,6 +1,6 @@
-#Livro de receitas :book
+#Livro de receitas 📖
 
-Olá bem vindo ao meu livro de receitas :wave
+Olá bem vindo ao meu livro de receitas 👋
  - Strogonoff de Frango
  
  
